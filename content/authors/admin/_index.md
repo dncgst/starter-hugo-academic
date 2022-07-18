@@ -1,39 +1,40 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Domenico Giusti
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Palaeolithic archaeologist
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Senckenberg Centre for Human Evolution and Palaeoenvironment & Eberhard Karls Universität Tübingen
+    # url: https://www.stanford.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: I am a Palaeolithic archaeologist specialized in the study of archaeological site formation processes through exploratory and hypothesis-driven spatial data analysis.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Site formation processes
+  - Taphonomy
+  - Spatial analysis
+  - Open Science
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
+    - course: PhD in Archaeological Science
+      institution: Eberhard Karls Universität Tübingen
+      year: 2018
+    - course: MSc in Quaternary and Prehistory
+      institution: University of Ferrara
       year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: MA in Conservation of Cultural Heritage
+      institution: University of Perugia
+      year: 2006
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -43,18 +44,27 @@ social:
   - icon: envelope
     icon_pack: fas
     link: '/#contact'
+  #- icon: keybase
+  #  icon_pack: fab
+  #  link: https://keybase.io/benmarwick
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://twitter.com/gnewarchaeology
+  #- icon: google-scholar
+  #  icon_pack: ai
+  #  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  - icon: orcid
+    icon_pack: ai
+    link: "http://orcid.org/0000-0003-1438-4036"
+  - icon: osf
+    icon_pack: ai
+    link: "https://osf.io/bfa9e/"
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://github.com/dncgst
+  #- icon: linkedin
+  #  icon_pack: fab
+  #  link: https://www.linkedin.com/
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
@@ -70,8 +80,8 @@ email: ''
 highlight_name: true
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a Palaeolithic archaeologist specialized in the study of archaeological site formation processes through exploratory and hypothesis-driven spatial data analysis.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I am also an advocate of Open Science in archaeology.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
