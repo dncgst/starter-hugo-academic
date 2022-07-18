@@ -25,7 +25,7 @@ content:
       captcha: false
 
   # Contact details (edit or remove options as required)
-  email: domenico.giusti@uni-tuebingen.de
+  #email: domenico.giusti@uni-tuebingen.de
   #phone: 888 888 88 88
   address:
     street: Rümelinstr. 23
@@ -35,7 +35,7 @@ content:
     country: Germany
     country_code: DE
   coordinates:
-    latitude: '48.524356130826625' 
+    latitude: '48.524356130826625'
     longitude: '9.056253938175967'
   #directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
   #office_hours:
