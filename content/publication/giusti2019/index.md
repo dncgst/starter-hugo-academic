@@ -6,22 +6,22 @@ title: 'Recursive anisotropy: a spatial taphonomic study of the Early Pleistocen
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - admin
-  - Konidaris, George E.
-  - Tourloukis, Vangelis
-  - Marini, Mattia
-  - Maron, Matteo
-  - Zerboni, Andrea
-  - Thompson, Nicholas
-  - Koufos, George D.
-  - Kostopoulos, Dimitris S.
-  - Harvati, Katerina
+  - Konidaris George E.
+  - Tourloukis Vangelis
+  - Marini Mattia
+  - Maron Matteo
+  - Zerboni Andrea
+  - Thompson Nicholas
+  - Koufos George D.
+  - Kostopoulos Dimitris S.
+  - Harvati Katerina
 
 # Author notes (optional)
 #author_notes:
 #  - 'Equal contribution'
 #  - 'Equal contribution'
 
-date: '2019-06-27T07:32:00-08:00'
+date: '2019-06-27T00:00:00-00:00'
 doi: '10.1111/bor.12368'
 
 # Schedule page publish date (NOT publication's date).
