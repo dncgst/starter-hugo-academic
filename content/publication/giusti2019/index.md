@@ -21,7 +21,7 @@ authors:
 #  - 'Equal contribution'
 #  - 'Equal contribution'
 
-year: '2019'
+date: '2019-06-27T07:32:00-08:00'
 doi: '10.1111/bor.12368'
 
 # Schedule page publish date (NOT publication's date).
@@ -36,9 +36,6 @@ publication_types: ['2']
 # Publication name and optional abbreviated publication name.
 #publication: In *Wowchemy Conference*
 #publication_short: In *ICW*
-journal: Boreas
-volume: 48
-pages: 713--730
 
 abstract: By applying advanced spatial statistical methods, spatial taphonomy complements the traditional taphonomic approach and enhances our understanding of biostratinomic and diagenetic processes. In this study, we elaborate on a specific aspect – spatial anisotropy – of taphonomic processes. We aim to unravel the taphonomic history of the Early Pleistocene vertebrate assemblage of Tsiotra Vryssi (Mygdonia Basin, Greece). Circular statistics are used for the fabric analysis of elongated elements; geostatistics (directional variograms), wavelet and point pattern analyses are applied for detecting anisotropy at the assemblage level. The anisotropy of magnetic susceptibility (AMS) of sedimentary magnetic minerals is also investigated. The results, integratedwithpreliminaryremarksabout the differential preservationof skeletal elements, sedimentological and micromorphological observations, suggest multiple dispersion events and recurrent spatial rearrangement of a lag, (peri)autochthonous assemblage, consistent with the cyclical lateral switching of a braided fluvial system. Furthermore, this study offers a contribution to the building of a spatial taphonomic referential framework for the interpretation of other fossil vertebrate assemblages, including archaeo-palaeontological ones.
 
@@ -86,5 +83,3 @@ url_video: ''
 #   Otherwise, set `slides: ""`.
 #slides: example
 ---
-
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.2536205.svg)](https://doi.org/10.5281/zenodo.2536205)
