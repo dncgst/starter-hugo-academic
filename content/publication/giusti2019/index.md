@@ -21,7 +21,7 @@ authors:
 #  - 'Equal contribution'
 #  - 'Equal contribution'
 
-#date: '2013-07-01T00:00:00Z'
+year: '2019'
 doi: '10.1111/bor.12368'
 
 # Schedule page publish date (NOT publication's date).
@@ -36,6 +36,9 @@ publication_types: ['2']
 # Publication name and optional abbreviated publication name.
 #publication: In *Wowchemy Conference*
 #publication_short: In *ICW*
+journal: Boreas
+volume: 48
+pages: 713--730
 
 abstract: By applying advanced spatial statistical methods, spatial taphonomy complements the traditional taphonomic approach and enhances our understanding of biostratinomic and diagenetic processes. In this study, we elaborate on a specific aspect – spatial anisotropy – of taphonomic processes. We aim to unravel the taphonomic history of the Early Pleistocene vertebrate assemblage of Tsiotra Vryssi (Mygdonia Basin, Greece). Circular statistics are used for the fabric analysis of elongated elements; geostatistics (directional variograms), wavelet and point pattern analyses are applied for detecting anisotropy at the assemblage level. The anisotropy of magnetic susceptibility (AMS) of sedimentary magnetic minerals is also investigated. The results, integratedwithpreliminaryremarksabout the differential preservationof skeletal elements, sedimentological and micromorphological observations, suggest multiple dispersion events and recurrent spatial rearrangement of a lag, (peri)autochthonous assemblage, consistent with the cyclical lateral switching of a braided fluvial system. Furthermore, this study offers a contribution to the building of a spatial taphonomic referential framework for the interpretation of other fossil vertebrate assemblages, including archaeo-palaeontological ones.
 
@@ -53,7 +56,7 @@ tags: []
 #   url: http://example.org
 
 url_pdf: ''
-url_code: ''
+url_code: 'https://doi.org/10.5281/zenodo.2536205'
 url_dataset: ''
 url_poster: ''
 url_project: ''
@@ -84,12 +87,4 @@ url_video: ''
 #slides: example
 ---
 
-{{% callout note %}}
-Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
-{{% callout note %}}
-Create your slides in Markdown - click the _Slides_ button to check out the example.
-{{% /callout %}}
-
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.2536205.svg)](https://doi.org/10.5281/zenodo.2536205)
